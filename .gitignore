@@ -49,7 +49,7 @@ mlruns/
 *.pt
 *.pth
 *.onnx
-*.safetensor
+*.safetensors
 *.bin
 *.h5
 .gstack/
